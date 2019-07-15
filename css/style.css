@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Revalia');
+
+body {
+  font-family: 'Revalia', cursive;
+  background: #000;
+  text-align: center;
+}
+
+canvas {
+  border: 1px solid #444;
+  background-color: #222;
+  margin: 50px auto;
+}
